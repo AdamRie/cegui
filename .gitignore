@@ -29,6 +29,7 @@ xcuserdata/
 .ropeproject
 
 .vscode
+.idea
 
 cppcheck-output
 
